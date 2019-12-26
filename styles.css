@@ -1,0 +1,76 @@
+.profile{
+    margin: 2%;
+   width:30%;
+    border-radius: 100%;
+    float: left;
+}
+.name{
+    font-size: 25px;
+    margin: 7%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.size{
+    border-color: black;
+display: inline;
+font-size: 25px;
+width: 80%;
+font-family: 'Times New Roman', Times, serif;
+margin: 20px;
+padding: 5px 10px;
+border-radius: 24px;
+border: 1px;
+
+border-style: solid;
+}
+.size:focus{
+outline: none;
+}
+#message{
+    height: 300px;
+}
+.head{
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
+.margin{
+    margin-left: 95%;
+    margin-top: 1%;
+}
+.key{
+    display: inline;
+}
+.link:hover{
+    font-weight: 500;
+}
+body{
+    background-image: url('background.jpg');
+    font-family: 'Times New Roman', Times, serif;
+}
+.color-it{
+    background-color: #f7f7f7;
+}
+.container{
+    margin:2% 4%;
+    background-color: #f7f7f7;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 100px;
+}
+#header{
+    height: 15%;
+}
+.text{
+ width:25%;
+ padding: 5px;
+ margin-left: 77%;
+ margin-bottom: 2%;
+
+}
+#message{
+padding: 2%;
+}
+.form{
+    margin-left: 15%;
+}
